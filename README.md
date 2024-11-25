@@ -5,4 +5,4 @@ Este projeto tem como objetivo desenvolver um modelo de deep learning capaz de c
 
 ## Visão Geral
 
-A detecção precisa e rápida de doenças respiratórias é crucial para o tratamento eficaz e a gestão de pacientes. Neste projeto, utilizamos técnicas avançadas de deep learning para analisar imagens de raio-x do tórax, visando auxiliar profissionais de saúde na identificação precoce dessas condições. O modelo é treinado em um conjunto de dados diversificado de imagens, proporcionando uma ferramenta potencialmente valiosa para o diagnóstico médico.
+A predição precisa e rápida de doenças respiratórias é crucial para o tratamento eficaz e a gestão de pacientes. Neste projeto, utilizamos técnicas avançadas de deep learning para analisar imagens de raio-x do tórax, visando auxiliar profissionais de saúde na identificação precoce dessas condições. O modelo é treinado em um conjunto de dados diversificado de imagens, proporcionando uma ferramenta potencialmente valiosa para o diagnóstico médico.
